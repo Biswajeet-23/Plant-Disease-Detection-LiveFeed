@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.example.imageclassificationlivefeed"
+3    package="com.example.plantDiseaseLiveFeed"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
@@ -44,8 +44,8 @@
 26-->C:\Users\HP\AndroidStudioGithubProjects\ImageClassificationLiveFeedKotlinComplete-main\app\src\main\AndroidManifest.xml:15:9-65
 27        <activity
 27-->C:\Users\HP\AndroidStudioGithubProjects\ImageClassificationLiveFeedKotlinComplete-main\app\src\main\AndroidManifest.xml:16:9-24:20
-28            android:name="com.example.imageclassificationlivefeed.MainActivity"
-28-->C:\Users\HP\AndroidStudioGithubProjects\ImageClassificationLiveFeedKotlinComplete-main\app\src\main\AndroidManifest.xml:17:13-41
+28            android:name="com.example.plantDiseaseLiveFeed.MainActivity"
+28-->C:\Users\HP\AndroidStudioGithubProjects\ImageClassificationLiveFeedKotlinComplete-main\app\src\main\AndroidManifest.xml:17:13-73
 29            android:exported="true" >
 29-->C:\Users\HP\AndroidStudioGithubProjects\ImageClassificationLiveFeedKotlinComplete-main\app\src\main\AndroidManifest.xml:18:13-36
 30            <intent-filter>

@@ -8,7 +8,7 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.example.imageclassificationlivefeed"
+        applicationId "com.example.plantDiseaseLiveFeed"
         minSdkVersion 21
         targetSdkVersion 33
         versionCode 1
